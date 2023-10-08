@@ -1,4 +1,6 @@
 # this is a new file
 puts "hello bitch"
 
-pluts "steve"
+puts "steve"
+
+puts "testing a new branch called rvm"
